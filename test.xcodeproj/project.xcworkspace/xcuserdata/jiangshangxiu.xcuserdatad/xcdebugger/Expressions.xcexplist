@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__35-[ViewController download:session:]_block_invoke_2:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TOSMBSession requestContentsOfDirectoryAtFilePath:error:]:TOSMBSession.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "list[1]">
+            </PersistentString>
+            <PersistentString
+               value = "list[8]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TOSMBSession attemptConnectionWithSessionPointer:]:TOSMBSession.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController buttonTapped]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TOFilesTableViewController tableView:numberOfRowsInSection:]:TOFilesTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController viewDidLoad]:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TOFilesTableViewController tableView:cellForRowAtIndexPath:]:TOFilesTableViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "__38-[ViewController findAllPics:session:]_block_invoke_2:ViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TOSMBExifDownloadTask process_EXIF:length:]:TOSMBExifDownloadTask.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TOSMBExifDownloadTask performDownloadWithOperation:]:TOSMBExifDownloadTask.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "buffer[1]">
+            </PersistentString>
+            <PersistentString
+               value = "data">
+            </PersistentString>
+            <PersistentString
+               value = "buffer[3]">
+            </PersistentString>
+            <PersistentString
+               value = "buffer[0]">
+            </PersistentString>
+            <PersistentString
+               value = "buffer[2]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
